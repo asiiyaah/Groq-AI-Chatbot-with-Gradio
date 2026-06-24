@@ -28,7 +28,7 @@ _Testing creativity fluctuations by altering the randomness slider scale paramet
 * `app.py` - Main application interface and execution logic.
 * `requirements.txt` - Python package dependencies.
 * `README.md` - Project documentation.
-* `screenshot.png` - Visual interface preview image.
+
 
 ## 💻 Local Setup Installation
 
